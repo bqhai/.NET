@@ -32,7 +32,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DAL_BLL">
-      <HintPath>..\DAL_BLL\bin\Debug\DAL_BLL.dll</HintPath>
+      <HintPath>..\DAL_BLL\bin\Release\DAL_BLL.dll</HintPath>
     </Reference>
     <Reference Include="DevExpress.Charts.v19.2.Core, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.Data.v19.2, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />

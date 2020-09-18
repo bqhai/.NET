@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DAL_BLL">
-      <HintPath>..\DAL_BLL\bin\Debug\DAL_BLL.dll</HintPath>
+      <HintPath>..\DAL_BLL\bin\Release\DAL_BLL.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -48,7 +48,7 @@
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
     <Reference Include="ThietKeChucNang">
-      <HintPath>..\ThietKeChucNang\bin\Debug\ThietKeChucNang.dll</HintPath>
+      <HintPath>..\ThietKeChucNang\bin\Release\ThietKeChucNang.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
